@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "笑ったり転んだり",
+  "base_artist": "ハンバート ハンバート",
+  "createdAt": "2026-02-07T02:40:24.694748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "笑ったり転んだり",
+      "artist": "ハンバート ハンバート",
+      "has_synced": true,
+      "path": "select/01_笑ったり転んだり_ハンバート_ハンバート.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "笑ったり転んだり - Smiles and Stumbles",
+      "artist": "Humbert Humbert",
+      "has_synced": true,
+      "path": "select/02_笑ったり転んだり_-_Smiles_and_Stumbles_Humbert_Humbert.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "笑ったり転んだり",
+      "artist": "ハンバート ハンバート",
+      "has_synced": false,
+      "path": "select/pl_01_笑ったり転んだり_ハンバート_ハンバート.txt"
+    }
+  ]
+}
